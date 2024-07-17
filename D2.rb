@@ -1,5 +1,4 @@
 class Devendra
-def devendra
-puts "where are you go ." 
+def devendra 
 end
 end
