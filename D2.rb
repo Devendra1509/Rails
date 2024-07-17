@@ -1,5 +1,5 @@
 class Devendra
 def devendra 
- puts "hii hello .."
+ puts "hii anku why"
 end
 end
