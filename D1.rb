@@ -1,4 +1,4 @@
 class Devendra
-	def
-	end
+def search
+end
 end

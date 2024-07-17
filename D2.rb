@@ -1,6 +1,5 @@
 class Devendra
-def toy
-end
 def devendra
+puts "where are"
 end
 end
